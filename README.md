@@ -1,5 +1,8 @@
 ## [데이터 문제 해결 및 실습1] WSDM KKBox's Music Recommendation Challenge
 
+<img src="https://github.com/user-attachments/assets/6b163bda-1cce-4182-b692-d2911cbe7752">
+<br>
+
 ### 🎵 Kaggle 경진대회 
 https://www.kaggle.com/c/kkbox-music-recommendation-challenge
 <br><br><br>
